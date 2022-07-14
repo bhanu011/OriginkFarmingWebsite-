@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OriginkFarmingWebsite-/static/css/main.f1314e1f.css",
+    "main.js": "/OriginkFarmingWebsite-/static/js/main.53c8519d.js",
+    "static/media/bg.jpg": "/OriginkFarmingWebsite-/static/media/bg.cd2b2e7490630cd531a7.jpg",
+    "static/media/10.jpg": "/OriginkFarmingWebsite-/static/media/10.692493e457efe97044cd.jpg",
+    "index.html": "/OriginkFarmingWebsite-/index.html",
+    "main.f1314e1f.css.map": "/OriginkFarmingWebsite-/static/css/main.f1314e1f.css.map",
+    "main.53c8519d.js.map": "/OriginkFarmingWebsite-/static/js/main.53c8519d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1314e1f.css",
+    "static/js/main.53c8519d.js"
+  ]
+}
